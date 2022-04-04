@@ -1,26 +1,14 @@
-Fresh is a free blog template for Jekyll
-=============================
+BIENVENIDO A PERROS GATOS Y MAS 
 
-![](assets/img/fresh.jpg)
+CONTAMOS CON MEJORES SERVICIOS PARA EL CUIDADO PARA TU MASCOTA
+TENEMOS:
+  * GUARDERIA
+  * PELUQUERIA 
+  * BAÑOS AL GUSTO
+  * ESPECIALISTAS PARA EL CUIDADO DE TU PERRO 
+  * TIENDA DE JUGUETES Y ALIMENTOS 
+ CONTAMOS CO DIFERETES SUCURSALES 
+  ![image](https://user-images.githubusercontent.com/100168748/161639547-4d8f3555-fe9d-4bdf-9589-9e2aeb17b612.png)
 
-# Demo
-
-![GIF](assets/img/fresh.gif)
-
-View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
-
-Integrations
-  - [Google Fonts](https://fonts.google.com/)
-  - [Disqus](https://disqus.com/)
-  - [Font Awesome](http://fontawesome.io/)
-  - Social media links
-
-# How to Use
-
-  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
-  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-  and [creating pages](https://jekyllrb.com/docs/pages/).
-
-## License
-
-GNU General Public License v3.0
+  
+  TE ESPERAMOS 
