@@ -2,7 +2,7 @@
 layout: post
 title:  "Hola"
 date:    30 DE MARZO DEL 2022
-img: house.! [image](https://user-images.githubusercontent.com/100168748/161849950-50a46f09-c848-4549-a2d9-cb5087663dfb.png)
+img: house.jpg
 description: especialidades en el cuidado de tu mascotas con tamos con los mejores especialistas para cada mascotas o ave que tengas reconociods por todo la republica mexicana  
 ---
 BIENVENIDOS 
