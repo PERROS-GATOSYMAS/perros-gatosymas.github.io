@@ -3,7 +3,7 @@ layout: post
 title:  "ubicacion"
 img: wooden_house.jpg
 date:   2017-03-29 00:00:00 +0200
-description: Phasellus tincidunt pulvinar ante, pretium pellentesque urna mollis id. Donec convallis ut elit at aliquet. Suspendisse potenti.
+description: nuestra sucursales son las mejores del todo el pais.
 ---
 
 nuestra matriz se encuentra en
