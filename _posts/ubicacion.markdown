@@ -1,9 +1,6 @@
----
-layout: ubicacion
-title:  "ubicacion"
-img: zagreb_city.jpg
-date:   2017-03-29 00:00:00 +0200
-___
+ "ubicacion"
+
+
 nuestra matriz se encuentra en
  
  *CONGRESO DE LA UNION Y AV MOLEROS N*22 COL MADALENA MIXUCA
