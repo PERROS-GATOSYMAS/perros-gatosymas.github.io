@@ -2,8 +2,11 @@
 layout: post
 title:  "SERVICIOS Y PRODUCTOS "
 date:   2017-03-29 00:00:00 +0200
-description:LOS SERVICIOS DE NUESTAS SUCURSALES Y LOS PRODUCTOS QUE ELABORAMOS .
+description:los servicios y los productos que ofrecemos  .
 ---
+
+SERVICIOS Y PRODUCTOS
+
 
 SERVIOS 
   * PELUQUERIA PARA PERROS
