@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DOCTOR@S"
-img: descarga.png
+img: perros-gatosymas.github.io/assets/img/descarga.png
 date:   2017-03-29 00:00:00 +0200
 description:
 ---
