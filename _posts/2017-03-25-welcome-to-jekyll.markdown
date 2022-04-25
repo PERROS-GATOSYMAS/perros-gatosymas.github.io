@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DOCTOR@S"
-img: descarga.jpg
+img: descarga.png
 date:   2017-03-29 00:00:00 +0200
 description:
 ---
