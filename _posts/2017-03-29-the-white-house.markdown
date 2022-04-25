@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ubicacion"
-img: wooden_house.jpg
+img: FACHADA-CLÍNICA-VETERINARIA-500x281.png
 date:   2017-03-29 00:00:00 +0200
 description: nuestra sucursales son las mejores del todo el pais.
 ---
