@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DOCTOR@S"
-img: china_tiger_leaping_gorge.jpg
+img: descarga.jpg
 date:   2017-03-29 00:00:00 +0200
 description:
 ---
