@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HORARIOS"
-img: FACHADA-CLÍNICA-VETERINARIA-500x281.png
+img: 13.jpg
 date:   2017-03-29 00:00:00 +0200
 description:
 ---
